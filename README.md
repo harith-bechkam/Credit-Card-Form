@@ -17,7 +17,7 @@ Step:4 -> The project will run in https://localhost:3000
 
 I have deployed my project in netlify 
 
-  Link for live site:
+  Link for live site:https://zen-dijkstra-406283.netlify.app/
 
 
 
